@@ -15,6 +15,10 @@
 		E03C9869151A8F750004D2FD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E03C9868151A8F750004D2FD /* AppDelegate.m */; };
 		E03C986C151A8F750004D2FD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E03C986B151A8F750004D2FD /* ViewController.m */; };
 		E03C986F151A8F750004D2FD /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E03C986D151A8F750004D2FD /* ViewController.xib */; };
+		E03C9877151A93E30004D2FD /* mur_de_briques.png in Resources */ = {isa = PBXBuildFile; fileRef = E03C9875151A93E30004D2FD /* mur_de_briques.png */; };
+		E03C9878151A93E30004D2FD /* mur_de_briques@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E03C9876151A93E30004D2FD /* mur_de_briques@2x.png */; };
+		E03C987B151A94720004D2FD /* balle.png in Resources */ = {isa = PBXBuildFile; fileRef = E03C9879151A94720004D2FD /* balle.png */; };
+		E03C987C151A94720004D2FD /* balle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E03C987A151A94720004D2FD /* balle@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,15 +26,19 @@
 		E03C9858151A8F750004D2FD /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		E03C985A151A8F750004D2FD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E03C985C151A8F750004D2FD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		E03C9860151A8F750004D2FD /* TimerBall-Info.plist */ = {isa = PBXFileReference; path = "TimerBall-Info.plist"; sourceTree = "<group>"; };
+		E03C9860151A8F750004D2FD /* TimerBall-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TimerBall-Info.plist"; sourceTree = "<group>"; };
 		E03C9862151A8F750004D2FD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E03C9864151A8F750004D2FD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E03C9866151A8F750004D2FD /* TimerBall-Prefix.pch */ = {isa = PBXFileReference; path = "TimerBall-Prefix.pch"; sourceTree = "<group>"; };
-		E03C9867151A8F750004D2FD /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		E03C9866151A8F750004D2FD /* TimerBall-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TimerBall-Prefix.pch"; sourceTree = "<group>"; };
+		E03C9867151A8F750004D2FD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E03C9868151A8F750004D2FD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		E03C986A151A8F750004D2FD /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		E03C986A151A8F750004D2FD /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E03C986B151A8F750004D2FD /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		E03C986E151A8F750004D2FD /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		E03C9875151A93E30004D2FD /* mur_de_briques.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mur_de_briques.png; sourceTree = "<group>"; };
+		E03C9876151A93E30004D2FD /* mur_de_briques@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mur_de_briques@2x.png"; sourceTree = "<group>"; };
+		E03C9879151A94720004D2FD /* balle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = balle.png; sourceTree = "<group>"; };
+		E03C987A151A94720004D2FD /* balle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "balle@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +90,10 @@
 				E03C986A151A8F750004D2FD /* ViewController.h */,
 				E03C986B151A8F750004D2FD /* ViewController.m */,
 				E03C986D151A8F750004D2FD /* ViewController.xib */,
+				E03C9875151A93E30004D2FD /* mur_de_briques.png */,
+				E03C9876151A93E30004D2FD /* mur_de_briques@2x.png */,
+				E03C9879151A94720004D2FD /* balle.png */,
+				E03C987A151A94720004D2FD /* balle@2x.png */,
 				E03C985F151A8F750004D2FD /* Supporting Files */,
 			);
 			path = TimerBall;
@@ -150,6 +162,10 @@
 			files = (
 				E03C9863151A8F750004D2FD /* InfoPlist.strings in Resources */,
 				E03C986F151A8F750004D2FD /* ViewController.xib in Resources */,
+				E03C9877151A93E30004D2FD /* mur_de_briques.png in Resources */,
+				E03C9878151A93E30004D2FD /* mur_de_briques@2x.png in Resources */,
+				E03C987B151A94720004D2FD /* balle.png in Resources */,
+				E03C987C151A94720004D2FD /* balle@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
